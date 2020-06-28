@@ -1,4 +1,5 @@
-# ngejawi-master
+# ngejawi
+Bahasa pemrograman ngejawi menggunakan Python
 ## Our Grup:
 - Ananta Kwarta Durianto
 - Meilina Taffana Dewi
@@ -33,7 +34,7 @@
 4. save dan extrak in your folder
 5. ngejawi ready to use
 ```
-
+```
 ## Examples
 
 ## Variabel
@@ -53,7 +54,7 @@ ngejawi > c<b
 0
 ngejawi > c>b
 1
-
+```
 ## Operation Math
 **example:**
 ```
@@ -75,7 +76,7 @@ ngejawi > 2^8
 256
 ngejawi > 256^(1/8)
 2.0
-
+```
 **example:**
 ```
 ngejawi > VAR umur=20
