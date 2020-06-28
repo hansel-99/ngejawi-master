@@ -28,11 +28,10 @@ Bahasa pemrograman ngejawi menggunakan Python
 ## How To Use 
 
 **Follow this steps**
-1. open your browser and search link https://github.com/anantakwarta/ngejawi
-2. click clone or download
-3. and then choose download zip
-4. save dan extrak in your folder
-5. ngejawi ready to use
+1. click clone or download
+2. and then choose download zip
+3. save dan extrak in your folder
+4. ngejawi ready to use
 ```
 ```
 ## Examples
